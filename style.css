@@ -28,7 +28,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DA6062;
+  
 }
 
 header {
@@ -55,6 +55,7 @@ main {
     justify-content: center;
     align-items: center;
 
+
 }
 
 .background-logo {
@@ -77,6 +78,7 @@ main {
     width: 240px;
     transform: translateX(-100%);
     text-align: end;
+    margin-right: 90px;
 }
 
 .content-image {
@@ -109,6 +111,7 @@ footer div {
         font-size: 1rem;
         width: 100px;
         text-align: center;
+        margin-left: 90px;
     }
 
     .content-image {
