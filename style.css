@@ -15,12 +15,15 @@ body {
 
 header, footer {
     height: 100px;
-    background-color: #CF2425;
     color: #FFFFFF;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 20px;
+
+.logodolly {
+        width: 40%;
+    }
 }
 
 main {
